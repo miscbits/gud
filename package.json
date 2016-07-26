@@ -1,0 +1,17 @@
+{
+  "name": "gud",
+  "version": "1.0.0",
+  "description": "git gud kid",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-serve": "^1.4.0",
+    "gulp-webserver": "^0.9.1"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Wilhem Arthur (miscbits)",
+  "license": "MIT"
+}
